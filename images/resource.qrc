@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>dashboard.png</file>
+    <file>dashboard_white.png</file>
+    <file>image.png</file>
+    <file>log_out.png</file>
+    <file>log_out_white.png</file>
+    <file>menu.png</file>
+    <file>messages.png</file>
+    <file>messages_white.png</file>
+    <file>notifications.png</file>
+    <file>notifications_white.png</file>
+    <file>profile.png</file>
+    <file>profile_pic.png</file>
+    <file>profile_white.png</file>
+    <file>search.png</file>
+    <file>settings.png</file>
+    <file>settings_white.png</file>
+  </qresource>
+  <qresource>
+    <file>banner.png</file>
+  </qresource>
+</RCC>
